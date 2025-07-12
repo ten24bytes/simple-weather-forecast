@@ -1,0 +1,9 @@
+# Better server configuration
+[server]
+port = 8501
+enableCORS = true
+maxUploadSize = 200
+
+# Browser configuration
+[browser]
+gatherUsageStats = false
